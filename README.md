@@ -29,6 +29,6 @@
 <!-- Stats -->
 <div align="center">
     
-  ![snake gif](https://github.com/Rannh02/Rannh02/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Rannh02/Rannh02/blob/output/github-snake.svg)
 </div>
 
